@@ -1,0 +1,19 @@
+{
+  "name": "apollo-next-mongodb",
+  "version": "1.0.0",
+  "description": "Learning GrapQl + React + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Oscar Humberto Montejo Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
